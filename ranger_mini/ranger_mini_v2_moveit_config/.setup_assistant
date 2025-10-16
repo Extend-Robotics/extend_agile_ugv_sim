@@ -8,4 +8,4 @@ moveit_setup_assistant_config:
   CONFIG:
     author_name: Extend Robotics Support
     author_email: support@extendrobotics.com
-    generated_timestamp: 1760614341
+    generated_timestamp: 1760614967
