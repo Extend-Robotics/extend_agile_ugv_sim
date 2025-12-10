@@ -40,7 +40,7 @@
         <visual>
             <origin xyz="0 0 0" rpy="1.57 0 3.14 " />
             <geometry>
-                <mesh filename="package://ranger_mini_v2/meshes/ranger_base_simplified.dae" />
+                <mesh filename="package://ranger_mini_v2/meshes/ranger_base.dae" />
             </geometry>
         </visual>
         <!-- <collision>
